@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinash158
 - 👀 I’m interested in Cyber Security and Full Stack development
 - 🌱 I’m currently learning Cloud Security and Web development
-- 💞️ I’m looking to collaborate on wen development and web design +projects
+- 💞️ I’m looking to collaborate on Cyber Security Projects & wen development and web design +projects
 - 📫 You can reach me at LinkedIn https://www.linkedin.com/in/avinash-tiwari-69811a218/
 
 <!---
